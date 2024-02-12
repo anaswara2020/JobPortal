@@ -1,0 +1,28 @@
+*{
+  font-family: 'Protest Strike', sans-serif;
+}
+.log{
+  background-color:rgb(163, 162, 162) ;
+}
+span{
+  color:rgb(143, 142, 142)
+}
+.head{
+  background-color: rgb(169, 166, 166);
+}
+input{
+  outline: none;
+}
+.icon{
+  height:60px ;
+  width: 60px;
+}
+.one{
+  background-color: rgb(243, 242, 242);
+}
+.two{
+  background-color: rgb(228, 225, 225);
+}
+.five{
+  background-color: rgb(213, 213, 213);
+}
